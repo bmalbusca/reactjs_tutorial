@@ -1,5 +1,17 @@
 #	README.md
 
+
+This project uses [p5.js library](https://p5js.org)  
+
+```xml
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/p5.js/0.4.9/p5.js"></script>
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.11/addons/p5.dom.min.js"></script>
+  
+
+```
+
+
 ##	Chapter 1 - Intro
 
 ```javascript
@@ -36,7 +48,7 @@ The equilavent is:
 **Note:**	*Arrow functions don't need to use bind, so will be safe use 'this' keyword*
 
 
-## Chapter 3 - Using the `src` example
+##  Chapter 3 - Using the `src` example
 
 
 ####	Version 0
