@@ -1,4 +1,4 @@
-import React, {Component, useState} from 'react';
+import React, {Component, useState, useEffect} from 'react';
 
 
 
@@ -11,7 +11,11 @@ const App =() =>{
       setCount( count +1 );
     }
 
-
+    /*
+    * you tell React that your component needs to do something after render
+    * React will remember the function you passed (we’ll refer to it as our “effect”)
+    */
+    useEffect( () => {document.title = `Clicked ${count}x`;});
 
     return (
         <div>

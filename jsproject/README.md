@@ -188,9 +188,9 @@ Gear.info()
 
 There is 2 main source contents about this topic:
 
-1.	From [StackOverflow](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work) - [@Mahesha999](https://stackoverflow.com/users/1317018/mahesha999) and [@Haider Ilahi]([https://stackoverflow.com/users/12362732/haider-ilahi)
+1.	From [StackOverflow](https://stackoverflow.com/questions/3127429/how-does-the-this-keyword-work) - [@Mahesha999](https://stackoverflow.com/users/1317018/mahesha999) and [@Haider Ilahi](https://stackoverflow.com/users/12362732/haider-ilahi)
 
-2.	From (MDN web docs)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this] [RECOMMENDED]
+2.	From [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this) [RECOMMENDED]
 
 
 
